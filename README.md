@@ -20,9 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com) - Feel free to reach out to me for any inquiries or collaboration opportunities.
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) - Let's connect and expand our professional network.
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - Follow me for updates on my projects and tech musings.
+- **Email**: [mekazu268@gmail.com](mailto:mekazu268@gmail.com) - Feel free to reach out to me for any inquiries or collaboration opportunities.
 
 ## ⚡ Fun Fact
 
@@ -55,8 +53,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 Feel free to connect with me on various platforms:
 
 - **GitHub**: [Mekazu0](https://github.com/Mekazu0)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ## 📚 Blog Posts
 
