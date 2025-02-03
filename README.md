@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 Feel free to connect with me on various platforms:
 
-- **GitHub**: [Mekazu0](https://github.com/Mekazu0)
+- **GitHub**: [https://github.com/Mekazu0](https://github.com/Mekazu0)
 
 ## 📚 Blog Posts
 
